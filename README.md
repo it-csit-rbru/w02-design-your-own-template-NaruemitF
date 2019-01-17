@@ -3,4 +3,4 @@
 ## NaruemitF
 ## email 6015261015@rbru.ac.th
 [web site]
-(http://stu2.rbru.ac.th/~6015261015)
+(http://stu2.rbru.ac.th/~s6015261015/index.html)
